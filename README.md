@@ -8,11 +8,11 @@ Type this in cmd:-
 
 A. pip install -r requirements.txt
 
-B. python dhe.py <name of image.image format>
+B. python dhe.py #<name of image.image format>
   
-C. python he.py <name of image.image format>
+C. python he.py #<name of image.image format>
   
-D. python ying.py <name of image.image format>
+D. python ying.py #<name of image.image format>
   
   
   
